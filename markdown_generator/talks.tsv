@@ -1,5 +1,19 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Adaptive methods for finite elements	Talk	postdoc-seminar-2	Postdoc Seminar, Department of Mathematics, Colorado State University	2023-04-06	Fort Collins, Colorado, USA		
+Global-Coarsening Multigrid for hp-adaptive Finite Element Computations	Conference talk	siam-2	SIAM Conference on Computational Science and Engineering (CSE23), RAI Congress Centre	2023-03-03	Amsterdam, Netherlands		
+Adaptive methods and their application with finite elements	Talk	nist-1	National Institute of Standards and Technology (NIST)	2023-08-09	Gaithersburg, Maryland, USA		
+hp-adaptive Finite Element Methods for Large-Scale Parallel Computations	Conference talk	siam-1	SIAM Conference on Parallel Processing for Scientific Computing (PP22), Virtual	2022-02-24	Seattle, Washington, USA		
+Parallel hp-FEM: hp-adaptive, hybrid-GMG, MatrixFree	Talk	dealii-workshop-2	9th deal.II Users and Developers Workshop, Colorado State University	2021-08-18	Fort Collins, Colorado, USA		
+Algorithms for massively parallel generic hp-adaptive FEM	Talk	phd-seminar-5	PhD Students’ Seminar on Fire Safety Science, University of Chemistry and Technology, Virtual	2020-12-03	Prague, Czech Republic		
+Algorithms for massively parallel generic hp-adaptive FEM	Talk	postdoc-seminar-1	Postdoc Seminar, Department of Mathematics, Colorado State University	2020-11-09	Fort Collins, Colorado, USA		
+Massively parallel hp-adaptive finite element methods	Talk	phd-seminar-4	PhD Students’ Seminar on Fire Safety Science, Institute of Building Materials, Concrete Construction and Fire Safety, Brunswick Technical University	2019-11-29	Brunswick, Germany		
+deal.II showcase - A general library for adaptive finite element codes	Talk	dealii-intro-2	Boulder Fluid and Thermal Sciences Seminar Series, University of Colorado	2019-08-16	Boulder, Colorado, USA		
+Algorithms for massively parallel generic hp-adaptive FEM software	Talk	dealii-workshop-1	7th deal.II Users and Developers Workshop, Colorado State University	2019-08-07	Fort Collins, Colorado, USA		
+deal.II showcase – A general library for adaptive finite element codes	Talk	dealii-intro-1	Current Research Projects, Institute for Theoretical Physics I, Ruhr-University Bochum	2019-05-06	Bochum, Germany		
+Parallel hp-adaptive methods for buoyancy-driven flows	Talk	phd-seminar-3	PhD Students’ Seminar on Fire Safety Science, German Federal Institute for Materials and Testing (BAM)	2018-11-27	Berlin, Germany		
+Fire Simulation with adaptive FEM	Talk	fire-4	Applied Math Seminar, Department of mathematics, Colorado State University	2018-04-03	Fort Collins, Colorado, USA		
+Towards buoyancy driven flows with FEM	Talk	phd-seminar-2	PhD Students’ Seminar on Fire Safety Science, University of Wuppertal	2017-12-08	Wuppertal, Germany		
+Adaptive fire simulations - Verification of the flow solver	Talk	fire-3	Day of Research and Projects, University of Wuppertal	2017-05-17	Wuppertal, Germany		
+Towards smoke & fire simulation with grid adaptive FEM	Talk	phd-seminar-1	PhD Students’ Seminar on Fire Safety Science, European Organization for Nuclear Research (CERN)	2017-02-02	Geneva, Switzerland		
+To be fine or not to be fine - Adaptive mesh refinement in fire simulation	Talk	fire-2	Annual Colloquium at Jülich Supercomputing Centre, Jülich Research Centre	2016-12-13	Jülich, Germany		
+Fire Simulation	Talk	fire-1	Aachen Jülich Mathematics Workshop, Jülich Research Centre	2016-06-15	Jülich, Germany		

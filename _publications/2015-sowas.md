@@ -1,0 +1,10 @@
+---
+title: "Comparison of several techniques for obtaining the spatially resolved emissivity in low-temperature inductively coupled plasmas"
+collection: publications
+permalink: /publication/2015-sowas
+date: 2015
+venue: 'SOWAS lab report, Ruhr-University Bochum, Germany'
+paperurl: 'http://marcfehling.github.io/files/sowas.pdf'
+---
+
+<a href='http://marcfehling.github.io/files/sowas.pdf'>Download paper here</a>
