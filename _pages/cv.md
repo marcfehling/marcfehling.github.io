@@ -9,32 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+For my detailed cv, see the [pdf version](../files/cv.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Civil Engineering, University of Wuppertal, Germany, 2020
+* M.S. in Physics, Ruhr-University Bochum, Germany, 2015
+* B.S. in Physics, Ruhr-University Bochum, Germany, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2020 - now: Postdoctoral Fellow
+  * Colorado State University
+  * Duties included: Maintenance of deal.II library, Teaching
+  * Supervisor: Prof. Dr. Wolfgang Bangerth
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2015 - July 2020: Graduate Assistant
+  * Jülich Research Center / University of Wuppertal
+  * Duties included: Teaching assistant
+  * Supervisor: Prof. Dr. Lukas Arnold
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * Daily use of C++, Python
+  * In depth knowledge of Matlab, C, Java
+* Libraries & APIs
+  * deal.II, MPI, p4est, Boost
+* Software
+  * FDS, SALOME
+* Tools
+  * LaTeX, pgfplots, tikz, git, CMake, Unix
+* Languages
+  * German: Native speaker
+  * English: Fluent
+  * French: Basic communication skills
 
 Publications
 ======
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* appointed deal.II principal developer since March 2021
