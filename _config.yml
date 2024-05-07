@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marc Fehling"
 title_separator          : "-"
 name                     : &name "Marc Fehling"
-description              : &description "Postdoctoral Fellow at Colorado State University"
+description              : &description "Postdoctoral Fellow at Charles University"
 url                      : https://marcfehling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcfehling/marcfehling.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marc Fehling"
   avatar           : "marcfehling-2021.jpg"
-  bio              : "Research on parallel <span style='white-space: nowrap'>hp-adaptive</span> FEM <br><br> Principal developer of <a href='https://www.dealii.org/'>deal.II</a> <br><br> Postdoctoral Fellow at the <a href='https://mathematics.colostate.edu/'>Department of Mathematics</a> at <a href='https://www.colostate.edu/'>Colorado State University</a>"
-  location         : "Fort Collins, CO, USA"
+  bio              : "Research on parallel <span style='white-space: nowrap'>hp-adaptive</span> FEM <br><br> Principal developer of <a href='https://www.dealii.org/'>deal.II</a> <br><br> Postdoctoral Fellow at the <a href='https://mff.cuni.cz/en/'>Faculty of Mathematics and Physics</a> at <a href='https://cuni.cz/en/'>Charles University</a>"
+  location         : "Prague, Czech Republic"
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Tpmt9kkAAAAJ"
-  email            : "%6D%61%72%63%2E%66%65%68%6C%69%6E%67%40%63%6F%6C%6F%73%74%61%74%65%2E%65%64%75"
+  email            : "%6D%61%72%63%2E%66%65%68%6C%69%6E%67%40%6D%61%74%66%79%7A%2E%63%75%6E%69%2E%63%7A"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
