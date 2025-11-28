@@ -19,7 +19,12 @@ Education
 
 Work experience
 ======
-* October 2020 - now: Postdoctoral Fellow
+* May 2024 - now: Postdoctoral Fellow
+  * Charles University
+  * Duties included: Maintenance of deal.II library
+  * Supervisor: Prof. Dr. Sebastian Schwarzacher
+
+* October 2020 - Feb 2024: Postdoctoral Fellow
   * Colorado State University
   * Duties included: Maintenance of deal.II library, Teaching
   * Supervisor: Prof. Dr. Wolfgang Bangerth
@@ -39,7 +44,7 @@ Skills
 * Software
   * FDS, SALOME
 * Tools
-  * LaTeX, pgfplots, tikz, git, CMake, Unix
+  * LaTeX, pgfplots, tikz, git, CMake, Unix, docker, github-actions
 * Languages
   * German: Native speaker
   * English: Fluent
