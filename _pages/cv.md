@@ -48,6 +48,8 @@ Skills
 * Languages
   * German: Native speaker
   * English: Fluent
+
+{% if false %}
   * French: Basic communication skills
 
 Publications
@@ -67,6 +69,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
   
 Service and leadership
 ======
